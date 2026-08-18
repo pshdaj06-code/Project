@@ -1,3 +1,3 @@
 # Project
 
-For databricks CI/CD project
+For databricks CI/CD projects
